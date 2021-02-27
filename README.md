@@ -32,3 +32,6 @@ Lacks basic investment features
 Meager research capabilities
 Attracts uninformed investors
 Encourages more frequent trading
+
+### What is the prognosis of this company?
+The prognosis is going to depend on its ability to bridge the gap between traditional trading practices and the new retail traders, along with all the obstacles that come with it, such as the situation with GameStop.

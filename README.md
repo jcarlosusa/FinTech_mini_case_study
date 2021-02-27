@@ -10,3 +10,7 @@ We chose RobinHood which is a Stock Brokerage Retailer. They are trying to disru
 ## How does this company use technology to there advantage?
 
 The used the revolution of Smartphones to bring stock trading to your finger prints.  Anyone can trade stocks easily.  Because they combined mobile apps with traditional stock trading.
+
+## why is the company exemplary in the fintech space
+
+The company has revolutionized the finance field by breaking down barriers of entry and allowing everyone access to trade. 

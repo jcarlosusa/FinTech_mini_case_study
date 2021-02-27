@@ -14,3 +14,21 @@ The used the revolution of Smartphones to bring stock trading to your finger pri
 ## why is the company exemplary in the fintech space
 
 The company has revolutionized the finance field by breaking down barriers of entry and allowing everyone access to trade. 
+
+## What are their strengths and weaknesses
+
+### Strengths 
+Zero fees for trades
+Accessible for everyone
+The “easy button” for investing
+Intuitive app
+High-yield savings
+Free stock for everyone
+
+### Weaknesses
+Poor trading platform
+Extremely limited customer service
+Lacks basic investment features
+Meager research capabilities
+Attracts uninformed investors
+Encourages more frequent trading

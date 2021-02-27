@@ -14,3 +14,6 @@ The used the revolution of Smartphones to bring stock trading to your finger pri
 ## why is the company exemplary in the fintech space
 
 The company has revolutionized the finance field by breaking down barriers of entry and allowing everyone access to trade. 
+
+### What is the prognosis of this company?
+The prognosis is going to depend on its ability to bridge the gap between traditional trading practices and the new retail traders, along with all the obstacles that come with it, such as the situation with GameStop.
